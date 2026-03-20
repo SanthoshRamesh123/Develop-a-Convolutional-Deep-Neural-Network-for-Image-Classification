@@ -11,7 +11,7 @@ Image classification is a fundamental problem in computer vision where the goal 
 The objective of this project is to develop a Convolutional Neural Network (CNN) that can automatically extract features from images and accurately classify them into predefined categories.
 
 ## Neural Network Model
-Include the neural network model diagram.
+A Neural Network Model is a computational model inspired by the human brain, used in machine learning and deep learning to recognize patterns, learn from data, and make predictions.
 
 ## DESIGN STEPS 
 1. Load and Preprocess Data
