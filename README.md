@@ -4,7 +4,11 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+Developing a Convolutional Deep Neural Network (CNN) for Image Classification
+
+Image classification is a fundamental problem in computer vision where the goal is to assign a label to an image based on its visual content. Traditional machine learning methods struggle with high-dimensional image data and fail to capture spatial features effectively.
+
+The objective of this project is to develop a Convolutional Neural Network (CNN) that can automatically extract features from images and accurately classify them into predefined categories.
 
 ## Neural Network Model
 Include the neural network model diagram.
