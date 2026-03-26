@@ -12,6 +12,7 @@ The objective of this project is to develop a Convolutional Neural Network (CNN)
 
 ## Neural Network Model
 A Neural Network Model is a computational model inspired by the human brain, used in machine learning and deep learning to recognize patterns, learn from data, and make predictions.
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/a757df16-cd3e-4a0a-99c3-8ac7e249f2af" />
 
 ## DESIGN STEPS 
 1. Load and Preprocess Data
